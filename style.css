@@ -1,0 +1,45 @@
+.header1{
+     margin-top: 100px;
+     font-size: 4em;
+     text-align: center!important;
+}
+.middle{
+    padding: 20px;
+    box-shadow: 3px 3px 8px gray;
+    margin-top: 80px;
+    border-radius: 10px;
+    height: 250px;
+}
+#nextpart{
+    display: none;
+    
+}
+.transactionedit{
+    margin-top: 100px;
+    background-color:steelblue;
+    border-radius: 20px;
+    padding: 30px;
+    margin-left: 10px;
+}
+.transactionedit1{
+    margin-top: 100px;
+    background-color:orangered;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.transactionedit2{
+    margin-top: 100px;
+    background-color:green;
+    border-radius: 20px;
+    padding: 30px;
+}
+.deposit{
+    padding: 40px;
+    box-shadow: 3px 3px 8px gray;
+    margin-top: 80px;
+    border-radius: 10px;
+    height: 250px;
+}
+
+
